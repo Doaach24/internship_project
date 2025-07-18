@@ -3,14 +3,13 @@
 This project demonstrates how Multilayer Perceptrons (MLPs) can solve the XOR problem for different numbers of binary inputs (from 2 to 10). For each input size, a different neural network configuration is used to improve learning performance and accuracy.
 
 xor_problem/
-
-
- xor_2.csv -
- xor_3.csv -
-    ...
- xor_10.csv -
- xor_15.csv -
- main.ipynb 
+├──data csv/           # Folder containing XOR datasets
+│   ├── xor_2.csv
+│   ├── xor_3.csv
+│   ├── ...
+│   ├── xor_10.csv
+│   └── xor_15.csv
+└── main.ipynb              # Jupyter Notebook for training and evaluation
 
 # Requirements:
 ```bash
