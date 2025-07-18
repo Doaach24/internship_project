@@ -5,11 +5,11 @@ This project demonstrates how Multilayer Perceptrons (MLPs) can solve the XOR pr
 xor_problem/
 
 
- xor_2.csv/
- xor_3.csv/
+ xor_2.csv -
+ xor_3.csv -
     ...
- xor_10.csv/
- xor_15.csv/
+ xor_10.csv -
+ xor_15.csv -
  main.ipynb 
 
 # Requirements:
