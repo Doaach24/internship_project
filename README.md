@@ -1,6 +1,6 @@
 # XOR Classification with MLP (Scikit-learn):
 
-This project demonstrates how Multilayer Perceptrons (MLPs) can solve the XOR problem for different numbers of binary inputs (from 2 to 10). For each input size, a different neural network configuration is used to improve learning performance and accuracy.
+This project demonstrates how Multilayer Perceptrons (MLPs) can solve the XOR problem for different numbers of binary inputs (from 2 to 10) and 15. For each input size, a different neural network configuration is used to improve learning performance and accuracy.
 
 
 Project Structure
