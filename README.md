@@ -5,7 +5,7 @@ This project demonstrates how Multilayer Perceptrons (MLPs) can solve the XOR pr
 
 #Project Structure:
 
-<pre><code>```text
+<pre><code>```
 xor_problem/
 ├──data csv/           # Folder containing XOR datasets
 │   ├── xor_2.csv
